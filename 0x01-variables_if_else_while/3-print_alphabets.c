@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
@@ -25,3 +25,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+	 
